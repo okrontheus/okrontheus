@@ -1,1 +1,1 @@
-# Paradox Thread 001: The Echo Chamber Paradox
+# Paradox 001: Echo Chamber

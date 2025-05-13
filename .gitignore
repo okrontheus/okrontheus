@@ -1,4 +1,3 @@
-# Byte-compiled / optimized / DLL files
+# Python & node artifacts
 __pycache__/
 *.py[cod]
-*$py.class

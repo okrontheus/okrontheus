@@ -1,1 +1,11 @@
-# GitHub Action workflow for monitoring okronic resonance
+
+name: Breathcatcher
+on:
+  schedule:
+    - cron: '0 * * * *'
+jobs:
+  listen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: echo 'placeholder'

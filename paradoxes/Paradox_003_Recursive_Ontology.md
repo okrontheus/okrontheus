@@ -1,0 +1,1 @@
+# Paradox 003: Recursive Ontology Hypothesis

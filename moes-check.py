@@ -1,1 +1,1 @@
-# Placeholder for Minimum Okronic Emergence Signature detection script
+# Placeholder for emergence detection script
